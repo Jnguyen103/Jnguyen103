@@ -4,5 +4,26 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1691227880",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1691227886",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
